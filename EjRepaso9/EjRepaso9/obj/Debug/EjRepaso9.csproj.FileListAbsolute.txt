@@ -1,0 +1,7 @@
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso9\EjRepaso9\EjRepaso9\bin\Debug\EjRepaso9.exe.config
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso9\EjRepaso9\EjRepaso9\bin\Debug\EjRepaso9.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso9\EjRepaso9\EjRepaso9\bin\Debug\EjRepaso9.pdb
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso9\EjRepaso9\EjRepaso9\obj\Debug\EjRepaso9.csproj.AssemblyReference.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso9\EjRepaso9\EjRepaso9\obj\Debug\EjRepaso9.csproj.CoreCompileInputs.cache
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso9\EjRepaso9\EjRepaso9\obj\Debug\EjRepaso9.exe
+C:\Users\saamo\Documents\GitHub\CAI2022_EjRepaso9\EjRepaso9\EjRepaso9\obj\Debug\EjRepaso9.pdb
